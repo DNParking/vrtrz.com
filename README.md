@@ -8,6 +8,9 @@ var _hmt = _hmt || [];
 })();
 </script>
 
+# 5秒后自动跳转博客，或者手动点击“博客”进入
+<a href="http://www.lidetao.com">博客</a>
+
 <script>
   (function(){
     setTimeout(function(){
